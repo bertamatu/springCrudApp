@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Allura');
+body {
+        background-color: #fff;
+        margin: auto;
+        max-width: 100%;
+        font-family: 'Roboto', sans-serif;
+        color: #585858;
+        font-size: 12px;
+        text-align: center;
+	    }
+.nav-link:hover {
+		color: rgb(120, 120, 120);
+		font-weight: bold;
+		font-size: 12px;
+		text-shadow: 1px 2px #F2F2F2;
+		}
+.home_pic {
+		display: inline;
+		height: 400px;
+		padding: 10px;
+		margin: 100px 10px 10px 10px;
+		box-shadow: 0 1px 2px 2px #D8D8D8;
+		border-radius: 5px;
+		transition: transform .5s;
+		}
+.home_pic:hover {
+		transform: scale(1.05);
+		box-shadow: 10px 8px 10x 8px #BDBDBD;
+		}
+blockquote {
+		font-size: 30px;
+		font-family: 'Allura', cursive;
+		color: rgb(120, 120, 120);
+		}
+blockquote:hover {
+		color: rgb(48, 102, 78);
+		transition: transform 1.0s;
+		}
+cite {
+		color: #848484;
+		font-size: 15px;
+		}
+.linked_in {
+        margin-top: 70px;
+}
+#edit_template {
+        align:center;
+}
+
+@media only screen and (min-width: 480px) {
+body {
+    font-size: 9px;
+    background-color: rgb(48, 102, 78);
+    }
+.pr-photos .home{
+     width: 20wv;
+     }
+}
+/*
+@media only screen and (min-width: 600px) {
+}
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 1382px) {
+}
+} */
+
