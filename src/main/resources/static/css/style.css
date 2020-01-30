@@ -42,27 +42,18 @@ cite {
 		}
 .linked_in {
         margin-top: 70px;
-}
+        }
 #edit_template {
         align:center;
-}
+        }
+
+
 
 @media only screen and (min-width: 480px) {
 body {
-    font-size: 9px;
-    }
+        font-size: 9px;
+        }
 .pr-photos .home{
-     width: 20wv;
-     }
+         width: 20wv;
+         }
 }
-/*
-@media only screen and (min-width: 600px) {
-}
-@media only screen and (min-width: 768px) {
-}
-@media only screen and (min-width: 992px) {
-}
-@media only screen and (min-width: 1382px) {
-}
-} */
-
