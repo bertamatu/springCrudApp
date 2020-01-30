@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Allura');
 body {
-        background-color: #fff;
         margin: auto;
         max-width: 100%;
         font-family: 'Roboto', sans-serif;
@@ -51,7 +50,6 @@ cite {
 @media only screen and (min-width: 480px) {
 body {
     font-size: 9px;
-    background-color: rgb(48, 102, 78);
     }
 .pr-photos .home{
      width: 20wv;
